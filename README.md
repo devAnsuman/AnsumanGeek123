@@ -10,41 +10,31 @@
  
  🔭 I’m currently Studying at **NIT Rourkela**
  
- 🌱 I’m currently learning **Solidity For Blockchain Developement**
+ 🌱 I’m currently learning **Solidity For Blockchain Development**
 
-💬 Ask me about **Data Structures and Algorithms, Node.js, React.js, Docker etc.**
+💬 Ask me about **Data Structures and Algorithms, Node.js, React.js, Docker, etc.**
 
 ⚡ Fun fact **The GitHub Octocat 🐙🐱 (the mascot) has an official name—"Mona Lisa"! 🎨**
 
- </div>
- 
+</div>
+
 <div align="center"> 
   <a href="mailto:ansumandas2025@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ansuman-das-90a9a0226/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Siku_2003/" target="_blank">
-     <img src="!https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
 </div>
-
-<hr/>
-<br>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-<br/>
