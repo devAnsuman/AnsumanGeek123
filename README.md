@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently Studying at **NIT Rourkela**
+ 🔭 I’m a 2025 grad. from **NIT Rourkela**
  
- 🌱 I’m currently learning **Solidity For Blockchain Development**
+ 🌱 I’m currently mastering **Data Structures and CP**
 
 💬 Ask me about **Data Structures and Algorithms, Node.js, React.js, Docker, etc.**
 
